@@ -8,7 +8,7 @@ To write a Python program to construct an AVL tree and print the nodes of it usi
 
 1. Start the program.
 2. Define a function `getDictTree(tree)` to return the dictionary representation of an AVL tree.
-3. Define a function `Construct_AVL(L)` to:
+3. Define a function `Construct_AVL(L)` to: 
    - Create an AVL tree from the list `L`.
    - Get and print the dictionary tree using `getDictTree(tree)`.
 4. Define a list `L` with integer values.
