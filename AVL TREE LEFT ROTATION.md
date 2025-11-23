@@ -6,7 +6,7 @@ To write a Python function `def leftRotate(self, z)` to perform the left rotatio
 
 ## Algorithm
 
-1. Define the `TreeNode` class to represent each node in the AVL Tree with:
+1. Define the `TreeNode` class to represent each node in the AVL Tree with: 
    - Key value
    - Left and right child pointers
    - Height of the node
