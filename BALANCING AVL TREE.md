@@ -3,7 +3,7 @@
 ## Aim
 To write a Python program to construct an AVL tree, balance it, and print the nodes of the tree before and after balancing using the appropriate packages and built-in functions.
 
-## Algorithm
+## Algorithm 
 
 1. Start the program.
 2. Define `getDictTree(self)` to return the dictionary representation of the AVL tree.
