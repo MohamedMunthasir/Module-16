@@ -5,7 +5,7 @@ To write a Python function `def insert(self, k)` to insert nodes in a B Tree.
 
 ## Algorithm
 
-1. Start the program.
+1. Start the program. 
 2. Define the `BTreeNode` class to represent a node with keys, children, and a leaf status.
 3. Define the `BTree` class with methods to insert keys, handle node splits, and print the tree.
 4. Implement the `insert()` method to insert a key into the tree, handling splits if necessary.
